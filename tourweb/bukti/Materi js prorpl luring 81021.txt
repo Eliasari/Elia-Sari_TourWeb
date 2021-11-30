@@ -1,0 +1,10 @@
+onMouseOver = memindahkan kursor, (jika dipindah waktu di webex bisa memunculkan mute)
+
+inline = di dalam tag html (di dalam body)
+
+internal = di dalam tag head script
+
+eksternal = membuat file sendiri dengan ekstensi .js
+
+<script src="nama-file.js"></script> (apabila di dalam folder beda juga dipanggil foldernya
+
